@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("hello from TS")})();
+(()=>{"use strict";console.log("hello from TS"),console.log("hello again")})();
