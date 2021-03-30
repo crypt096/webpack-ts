@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/crypt096/webpack-ts/issues"
   },
-  "homepage": "https://github.com/crypt096/webpack-ts#readme"
+  "homepage": "https://github.com/crypt096/webpack-ts#readme",
+  "devDependencies": {
+    "ts-loader": "^8.1.0",
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.6.0"
+  }
 }
